@@ -7,4 +7,5 @@
 3. Línea agregada utilizando _GitHub Desktop_
 
 ### Cambios desde VS
-Nueva línea desde _Visual Studio Code_
+1. Nueva línea desde _Visual Studio Code_
+2. Pull request desde _Visual Studio Code_
